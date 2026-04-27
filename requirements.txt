@@ -1,0 +1,4 @@
+flask==3.0.0
+yt-dlp==2024.12.23
+faster-whisper==1.0.0
+ffmpeg-python==0.2.0
